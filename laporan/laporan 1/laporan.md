@@ -88,7 +88,7 @@ Kerangka kerja MVC mencakup 3 komponen berikut:
 * Model
 * View
 
-![Diagram MVC][(laporan1/gambar/Diagram MVC2.png)]
+![Diagram MVC](laporan1/gambar/Diagram MVC2.png)
 
 1. User (Pengguna) → mengirim permintaan lewat browser, misalnya: "Tampilkan daftar siswa".
 2. Controller (Pengontrol) → menerima permintaan itu, lalu memberi tahu Model untuk mengambil data yang dibutuhkan.
